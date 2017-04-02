@@ -1,0 +1,3 @@
+# Module conference_organizer
+# RPC service class, partial path of RPC policy file
+com.csueb.ds.client.GreetingService, 9637EECA70F9826C8E010388681D67BD.gwt.rpc

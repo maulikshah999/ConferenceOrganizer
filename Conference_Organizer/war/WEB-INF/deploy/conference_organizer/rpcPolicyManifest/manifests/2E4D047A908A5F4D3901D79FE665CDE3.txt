@@ -1,0 +1,2 @@
+serviceClass: com.csueb.ds.client.GreetingService
+path: 9637EECA70F9826C8E010388681D67BD.gwt.rpc
